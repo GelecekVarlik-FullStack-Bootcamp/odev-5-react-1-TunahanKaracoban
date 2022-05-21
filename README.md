@@ -1,15 +1,16 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+
 
 # Homework 
-```Ödev```
+```- Reduce ile isimlerin baş harfine göre gruplandırma
+- Yaşadıkları şehirlere göre gruplandırma ```
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```İsimlerin baş harfine göre gruplama Name.js içerisnde ```
+```Yaşadıkları şehirlere göre gruplandırma City.js içerisnde ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Tunahan Karaçoban```
