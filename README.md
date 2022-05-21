@@ -1,8 +1,8 @@
 
 
-# Homework 
+## Homework
 
-```- Reduce ile isimlerin baş harfine göre gruplandırma
+```- Reduce ile isimlerin baş harfine göre gruplandırma ```
 - Yaşadıkları şehirlere göre gruplandırma ```
 
 
