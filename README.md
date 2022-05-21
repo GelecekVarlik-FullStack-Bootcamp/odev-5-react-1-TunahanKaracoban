@@ -3,7 +3,7 @@
 ## Homework
 
 ```- Reduce ile isimlerin baş harfine göre gruplandırma ```
-- Yaşadıkları şehirlere göre gruplandırma ```
+```- Yaşadıkları şehirlere göre gruplandırma ```
 
 
 ## Homework Description
